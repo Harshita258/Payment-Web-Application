@@ -1,0 +1,25 @@
+# PayFlow Landing Page
+
+## Overview
+This is a responsive landing page for **PayFlow**, a payments web application.  
+The page highlights features, testimonials, and includes a contact form.
+
+## Design Choices
+- **Colors:** Blue tones for trust and reliability (finance theme).
+- **Layout:** Flexbox and media queries for responsiveness.
+- **Typography:** Clean sans-serif for a modern professional look.
+- **Sections:** Header, Hero, Features, Testimonials, Contact, Footer.
+
+## Responsiveness
+- Desktop: Grid/flex layout with wide spacing.
+- Tablet/Mobile: Stacked layout with full-width sections.
+
+## Interactivity
+- Basic **form validation** with JavaScript to ensure proper input before submission.
+
+## Challenges
+- Ensuring responsiveness without frameworks.
+- Keeping the design polished with only plain CSS.
+
+## How to Run
+Simply open `index.html` in your browser.
